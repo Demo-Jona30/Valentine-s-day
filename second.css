@@ -1,0 +1,60 @@
+body{
+    background-color: pink;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 30px;
+}
+
+.heading2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 20px;
+    font-size: 50;
+}
+
+img{
+    display: flex;
+    margin-left: 250;
+    margin-top: 10;
+    margin-bottom: 10;
+}
+
+.pictext{
+    font-size: 30px;
+}
+
+.img-1{
+    height: 500px;
+    width: 400px;
+}
+
+.img-2{
+    height: 500px;
+    width: 400px;
+}
+
+.img-3{
+    height: 500px;
+    width: 400px;
+}
+
+.img-4{
+    height: 500px;
+    width: 400px;
+}
+
+.img-5{
+    height: 500px;
+    width: 400px;
+}
+
+.theend{
+    font-size: 30;
+    display: flex;
+    justify-content: center;
+}

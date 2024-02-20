@@ -1,0 +1,28 @@
+body{
+    background-color: lavender;
+}
+
+
+.container-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 50px;
+}
+
+.container-botton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
